@@ -1,0 +1,52 @@
+.encabezado {
+    background-image: url("patron.png");
+    background-repeat: no-repeat;
+    background: cover;
+    color: rgb(155, 0, 0);
+    padding: 1em;
+}
+
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+
+footer {
+    background-color: whitesmoke;
+    color: #333;
+    padding: 2em;
+}
+
+.titulos-secciones {
+    font-size: 30px;
+}
+
+.titulo {
+    top: 0;
+    right: 30px;
+    font-size: 50px;
+}
+
+.titulos-secciones {
+    text-align: center;
+    background-color: rgb(0, 0, 202);
+}
+
+.table {
+    color: whitesmoke;
+}
+.secciones{
+    background-color: rgb(6, 6, 73);
+    border: solid 5px #333;
+    
+}
+.accordion-button{
+    background-color: #333;
+    color: whitesmoke;
+}
+.accordion-body{
+    background-color: rgb(6, 6, 73);
+}
+.accordion{
+    margin: 10px;
+}
